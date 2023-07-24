@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  MDEV1004-M2023-ICE7A
+//  
 //
 //  Created by Namrata Savaliya on 2023-07-23.
 //
